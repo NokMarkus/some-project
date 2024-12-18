@@ -1,28 +1,13 @@
-# Node modules
 /node_modules/
-
-# Build output
 /dist/
-
-# Log files
 *.log
-
-# Dependency directories
 /pnpm-lock.yaml
 /yarn.lock
-
-# .env files for local configuration (if applicable)
 .env
 .env.local
 .env.*.local
-
-# IDE specific files (you can add any IDE-specific files you use)
 .vscode/
 .idea/
-
-# OS specific files (macOS example)
 .DS_Store
-
-# Miscellaneous
 *.tgz
 *.zip
